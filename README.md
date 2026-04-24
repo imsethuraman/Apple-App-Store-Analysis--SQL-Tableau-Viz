@@ -1,4 +1,4 @@
-# 🍎 Apple App Store Analysis (SQL + Tableau)
+# Apple App Store Analysis (SQL + Tableau)
 
 This project provides an in-depth analysis of the Apple App Store using **SQL (EDA)** and **Tableau (Visualization)** to uncover insights into app performance, user ratings, pricing strategy, and market trends.
 
